@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 067ce89fd61945c4f91059976892768f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - iconEmptySprite: {fileID: -2555558283721985644, guid: 8eb12c1d07dc3274b996fe01f338f6de, type: 3}
+  - iconFoundSprite: {fileID: -7340296763002949104, guid: 217eca4341f7a964db5cc53170fe80ce, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
